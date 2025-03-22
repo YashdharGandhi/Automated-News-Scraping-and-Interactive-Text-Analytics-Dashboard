@@ -1,4 +1,4 @@
-# **Automatic News Scraping and Visualization with Python**
+# **Automated News Scraping and Interactive Text Analytics Dashboard**
 
 ## **Project Overview**
 This project automates the process of scraping news articles from various sources using Python. It extracts relevant information such as the title, author, publish date, and main content of each article. The data is then stored in a structured format and visualized using a **word cloud** and an **interactive dashboard**.
